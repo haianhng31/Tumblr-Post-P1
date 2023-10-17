@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01C769F8-A822-45CE-B8F5-A98AE4F58B1B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B024661-05C0-416D-A99B-A5695D6A19B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios101-project5-tumblr/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F16724E-457D-461E-A4CE-13E2F7A3ADA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios101-project5-tumblr/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios101-project5-tumblr/PostCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - cafd3e014905a0b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.postLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/ios101-project5-tumblr/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - 92790935b62edca6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.postLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/ios101-project5-tumblr/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - e67137564b069a64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.postLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/ios101-project5-tumblr/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - 5fe383c0972b4c41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.postLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - 5e010db088b2c7f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; ios101_project5_tumblr.PostCell"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/ios101-project5-tumblr/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "A1C3A85B-D6F9-48CF-828D-E273E6A258A6 - a9297d55674ee150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_project5_tumblr.PostCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios101_project5_tumblr.PostCell&gt;"
+                  moduleName = "ios101-project5-tumblr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardmartinez/Documents/UMD/Fall%2023&apos;/CodePath/iOS%20course/Projects/ios101-project5-tumblr-starter-main/ios101-project5-tumblr/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
